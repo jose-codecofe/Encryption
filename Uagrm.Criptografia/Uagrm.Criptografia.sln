@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uagrm.Criptografia.Proveedor", "Uagrm.Criptografia.Servicio\Uagrm.Criptografia.Proveedor.csproj", "{D8F95960-56CF-4CAA-9182-01ADBB120CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uagrm.Criptografia.Cliente", "Uagrm.Criptografia.Cliente\Uagrm.Criptografia.Cliente.csproj", "{F9F02EC5-3AB0-4705-BA2F-9FAE27E1DB12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F95960-56CF-4CAA-9182-01ADBB120CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F95960-56CF-4CAA-9182-01ADBB120CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F95960-56CF-4CAA-9182-01ADBB120CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F95960-56CF-4CAA-9182-01ADBB120CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F02EC5-3AB0-4705-BA2F-9FAE27E1DB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F02EC5-3AB0-4705-BA2F-9FAE27E1DB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F02EC5-3AB0-4705-BA2F-9FAE27E1DB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F02EC5-3AB0-4705-BA2F-9FAE27E1DB12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

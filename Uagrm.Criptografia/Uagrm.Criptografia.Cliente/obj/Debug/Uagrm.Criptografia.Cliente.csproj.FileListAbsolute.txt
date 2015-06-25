@@ -1,0 +1,15 @@
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\bin\Debug\Uagrm.Criptografia.Cliente.exe.config
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\bin\Debug\Uagrm.Criptografia.Cliente.exe
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\bin\Debug\Uagrm.Criptografia.Cliente.pdb
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\obj\Debug\Uagrm.Criptografia.Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\obj\Debug\Uagrm.Criptografia.Cliente.Form1.resources
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\obj\Debug\Uagrm.Criptografia.Cliente.FrmClaveDES.resources
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\obj\Debug\Uagrm.Criptografia.Cliente.Properties.Resources.resources
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\obj\Debug\Uagrm.Criptografia.Cliente.csproj.GenerateResource.Cache
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\obj\Debug\Uagrm.Criptografia.Cliente.exe
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\obj\Debug\Uagrm.Criptografia.Cliente.pdb
+C:\Users\Satellite\Documents\Visual Studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\obj\Debug\Uagrm.Criptografia.Cliente.FrmCifradoRSA.resources
+C:\Users\Satellite\documents\visual studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\bin\Debug\Uagrm.Criptografia.Servicio.dll
+C:\Users\Satellite\documents\visual studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\bin\Debug\Uagrm.Criptografia.Servicio.pdb
+C:\Users\Satellite\documents\visual studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\obj\Debug\Uagrm.Criptografia.Cliente.FrmFirmaDigitalDSA.resources
+C:\Users\Satellite\documents\visual studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Cliente\obj\Debug\Uagrm.Criptografia.Cliente.FrmNumeroAleatorioRNG.resources

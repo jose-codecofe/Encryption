@@ -1,0 +1,5 @@
+c:\users\satellite\documents\visual studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Servicio\bin\Debug\Uagrm.Criptografia.Servicio.dll
+c:\users\satellite\documents\visual studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Servicio\bin\Debug\Uagrm.Criptografia.Servicio.pdb
+c:\users\satellite\documents\visual studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Servicio\obj\Debug\Uagrm.Criptografia.Servicio.dll
+c:\users\satellite\documents\visual studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Servicio\obj\Debug\Uagrm.Criptografia.Servicio.pdb
+C:\Users\Satellite\documents\visual studio 2013\Projects\Uagrm.Criptografia\Uagrm.Criptografia.Servicio\obj\Debug\Uagrm.Criptografia.Proveedor.csprojResolveAssemblyReference.cache
