@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Uagrm.Criptografia.Servicio.Manejadores
 {
+    /// <summary>
+    /// Clase genera numeros aleatorios por RNG.
+    /// </summary>
     public class ManejadorNumeroAleatorioRNG
     {
         /// <summary>

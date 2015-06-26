@@ -17,6 +17,7 @@ namespace Uagrm.Criptografia.Cliente
         {
             InitializeComponent();
 
+            // Deshabilita boton.
             btnComprobarFirma.Enabled = false;
         }
 
@@ -30,6 +31,8 @@ namespace Uagrm.Criptografia.Cliente
             else
             {
                 lblError.Text = string.Empty;
+
+                // Habilita boton.
                 btnComprobarFirma.Enabled = true;
 
                 // Asigna dato de cadena firma a variable.

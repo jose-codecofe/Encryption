@@ -8,8 +8,12 @@ using System.Threading.Tasks;
 
 namespace Uagrm.Criptografia.Servicio.Manejador
 {
+    /// <summary>
+    /// Clase maneja cifrado por RSA.
+    /// </summary>
     public class ManejadorCifradoDescifradoPorRSA
     {
+        // Constante de nombre de contenedor.
         private const string NOMBRE_CONTENEDOR = "ContenedorRSA";
 
         // Declara variable global de algoritmo de cifrado RSA.
@@ -144,9 +148,6 @@ namespace Uagrm.Criptografia.Servicio.Manejador
             // Declara mensajes de impresión.
             string vMsgImpresion = string.Empty;
 
-            // Genera claves y ficheros por rsa y asigna a variable mensajes de proceso.
-            //vMsgImpresion += GenerarClavesPorRSA();
-
             // Carga a servicio criptografico RSA y obtiene clave pública.
             string vClavePublica = CargarClavePublicaAServicioCriptografiaRSA();
 
@@ -180,9 +181,6 @@ namespace Uagrm.Criptografia.Servicio.Manejador
         {
             // Declara mensajes de impresión.
             string vMsgImpresion = string.Empty;
-
-            // Genera claves y ficheros por rsa y asigna a variable mensajes de proceso.
-          //  vMsgImpresion += GenerarClavesPorRSA();
 
             // Carga a servicio criptografico RSA y obtiene clave privada.
             string vClavePrivada = CargarClavePrivadaAServicioCriptograficoRSA();

@@ -7,8 +7,12 @@ using System.Threading.Tasks;
 
 namespace Uagrm.Criptografia.Servicio.Manejador
 {
+    /// <summary>
+    /// Clase genera firma digital por DSA.
+    /// </summary>
     public class ManejadorFirmaDigitalDSA
     {
+        // Constante algoritmo.
         private const string ALGORITMO = "SHA1";
 
         // Declaración de variables globales.

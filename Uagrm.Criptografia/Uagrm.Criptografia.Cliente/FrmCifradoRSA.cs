@@ -19,6 +19,7 @@ namespace Uagrm.Criptografia.Cliente
         {
             InitializeComponent();
 
+            // Deshabilita botones.
             btnCifrarMensaje.Enabled = false;
             btnDescifrarMensaje.Enabled = false;
         }
@@ -28,6 +29,7 @@ namespace Uagrm.Criptografia.Cliente
             // Genera claves publica y privada ficheros en BIN desde el proyecto de proveedor.
             lblMensaje.Text = ManejadorCifradoDescifradoPorRSA.GenerarClavesPorRSA();
 
+            // Habilita botones.
             btnCifrarMensaje.Enabled = true;
             btnDescifrarMensaje.Enabled = true;
         }
