@@ -1,0 +1,4 @@
+C:\Users\Satellite\Documents\GitHub\Encryption\Uagrm.Criptografia\Uagrm.Criptografia.Servicio\bin\Debug\CodeCofe.Criptografia.Servicio.dll
+C:\Users\Satellite\Documents\GitHub\Encryption\Uagrm.Criptografia\Uagrm.Criptografia.Servicio\bin\Debug\CodeCofe.Criptografia.Servicio.pdb
+C:\Users\Satellite\Documents\GitHub\Encryption\Uagrm.Criptografia\Uagrm.Criptografia.Servicio\obj\Debug\CodeCofe.Criptografia.Servicio.dll
+C:\Users\Satellite\Documents\GitHub\Encryption\Uagrm.Criptografia\Uagrm.Criptografia.Servicio\obj\Debug\CodeCofe.Criptografia.Servicio.pdb
